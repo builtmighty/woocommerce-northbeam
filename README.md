@@ -4,7 +4,11 @@
 This plugin connects WooCommerce to Northbeam's Orders API so that the API ingests order data for reporting and analysis. It does this by hooking into the `woocommerce_payment_complete` action, which runs whenever a payment is made for any order. The plugin can also include the Northbeam tracking pixel and the `firePurchaseEvent` script, which runs on the WooCommerce thank you/receipt page. It is compatible with WooCommerce Subscriptions.
 
 ### Installation
-Download the ZIP of the latest [release](https://github.com/builtmighty/woocommerce-northbeam/releases) or use the following WP CLI command:
+Download the ZIP of the latest release:
+
+[![Download ZIP](https://img.shields.io/badge/Download-ZIP-green?style=for-the-badge&logo=github)](https://github.com/builtmighty/woocommerce-northbeam/archive/refs/heads/main.zip)
+
+Or use the following WP CLI command:
 
 ```
 wp plugin install https://github.com/builtmighty/woocommerce-northbeam/archive/refs/heads/main.zip --force --activate
