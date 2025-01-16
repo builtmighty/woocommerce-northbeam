@@ -6,7 +6,7 @@ This plugin connects WooCommerce to Northbeam's Orders API so that the API inges
 ### Installation
 Download the ZIP of the latest release:
 
-[![Download ZIP](https://img.shields.io/badge/Download-ZIP-green?style=for-the-badge&logo=github)](https://github.com/builtmighty/woocommerce-northbeam/archive/refs/heads/main.zip)
+[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue?style=for-the-badge&logo=github)](https://github.com/builtmighty/woocommerce-northbeam/archive/refs/heads/main.zip)
 
 Or use the following WP CLI command:
 
